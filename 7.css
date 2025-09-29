@@ -1,0 +1,9 @@
+/* css width and height */
+div{
+    background-color: blue;
+    height: 500px;
+    width: 50vw;
+    margin: 100px 200px 300px 400px;
+    padding: 100px 200px 500px 50px;
+}
+/* css margin and padding */

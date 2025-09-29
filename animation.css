@@ -1,0 +1,22 @@
+#box{
+    width: 20%;
+    height: 200px;
+    background-color: blue;
+    animation-name: increasewidth;
+    animation-duration: 3s;
+    animation-delay: 2s;
+    animation-timing-function: ease-in-out;
+    animation-iteration-count: infinite;
+}
+
+
+/* creating */
+@keyframes increasewidth{
+    from{
+        width: 0%;
+        
+    }
+    to{
+        width: 100%;
+    }
+}

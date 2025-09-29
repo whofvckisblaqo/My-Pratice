@@ -1,0 +1,19 @@
+.ox{
+    width: 150px;
+    height: 150px;
+    background-color: rgb(40, 133, 133);
+    transition-property: all;
+    transition-duration: 0.3s;
+    transition-timing-function: linear;
+    transition-delay: 0.2s;
+
+}
+
+.box{
+    width: 100px;
+    height: 100px;
+    
+  transition: all 0.5s ease;
+
+}
+

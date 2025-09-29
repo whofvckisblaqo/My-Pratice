@@ -1,0 +1,10 @@
+h1{
+    color: blue;
+    background-color: blueviolet;
+
+height: 200px;
+    background-image: url(background.jpg);
+    background-size: 100px;
+    background-repeat:repeat-y ;
+    background-position-x: bottom;
+}

@@ -1,0 +1,17 @@
+h1{
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-size: ;
+    background-image: linear-gradient(to top right,red,green,#ffff00);
+    background-image: radial-gradient( circle,red,green,yellow );
+    background: url(background.jpg) radial-gradient(circle,red,indigo,orange);
+    
+    background-size: cover;
+    background-position: center;
+    background-repeat:no-repeat;
+    background-attachment: fixed;
+    height: 100vh;
+
+    
+
+}

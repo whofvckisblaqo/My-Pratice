@@ -1,0 +1,47 @@
+h2{
+    color: pink;
+}
+
+p{
+    color: burlywood;
+}
+
+#special{
+    color: cyan;
+}
+
+.note{
+    color:red;
+}
+
+/* attribute selector */
+input[type="text"]{
+    border: 10px solid;
+}
+/* universal selector */
+
+*{
+    color:rgb(155, 0, 0);
+}
+
+/* group selector */
+
+h5,h6{
+    color: rgb(133, 183, 173);
+}
+
+/* combinator */
+div p{
+    color: green;
+}
+
+/* adjancent */
+
+ul+ol{
+    color: olive;
+}
+
+/* general */
+ol~li{
+    color: bisque;
+}

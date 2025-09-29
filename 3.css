@@ -1,0 +1,18 @@
+/*this is h1 style */
+h1{
+    /* color: blue; */
+}
+/* rgb */
+p{
+    /* color: rgb(100, 50, 255); */
+}
+ol{
+    color: #96385d;
+}
+
+ul{
+    color: rgba(20, 50, 200, 0.2);
+}
+h4{
+    color: hsl(0, 50%, 100%);
+}
